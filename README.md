@@ -18,9 +18,13 @@ Install the necessary dependencies by running the following command:
 pip install -r requirements.txt
 
 pip install python-dotenv==1.0.0
+
 pip install streamlit==1.18.1
+
 pip install faiss-cpu==1.7.4
+
 pip install altair==4
+
 pip install openai
 
 Additionally, you need to obtain an OpenAI API key and add it to the .env file.
